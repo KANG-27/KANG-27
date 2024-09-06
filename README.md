@@ -13,7 +13,7 @@ Cuando no estoy programando, disfruto explorando nuevas recetas (sin comida pica
 ## Tecnologías que uso:
 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" width="40" height="40"/>
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript" width="40" height="40"/>
 
