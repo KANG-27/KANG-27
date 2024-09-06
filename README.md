@@ -18,7 +18,7 @@ Cuando no estoy programando, disfruto explorando nuevas recetas (sin comida pica
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="[https://cdn.worldvectorlogo.com/logos/nextjs-3.svg](https://cdn.worldvectorlogo.com/logos/next-js.svg)" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg](https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="40" height="40"/>
   
 </div>
@@ -26,5 +26,5 @@ Cuando no estoy programando, disfruto explorando nuevas recetas (sin comida pica
 
 ## Conéctate conmigo 📫
 
-- [LinkedIn](https://www.linkedin.com/in/kevin-andres-niño-guerrero/)
-- [Correo Electrónico](kevinandresrg@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kevin-niño-guerrero/)
+- [Correo Electrónico](kevinandresrg@gmail.com) kevinandresrg@gmail.com
