@@ -1,30 +1,50 @@
-## ¡Hola! Soy Kevin Andrés Niño Guerrero 👋
-Desarrollador Front-End
+<div align="center">
 
-Soy un desarrollador web apasionado, con experiencia en la creación de aplicaciones. Me motiva aprender continuamente y explorar nuevas tecnologías que transformen el desarrollo web.
+# Hola, soy Kevin Niño 👋
 
-* 🎓 Ingeniero de Sistemas con formación en análisis y desarrollo de sistemas de información.
-* 👓 Apasionado por las nuevas tecnologías.
-* 🤖 Interesado en la Inteligencia Artificial y cómo aplicarla para resolver problemas complejos.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Desarrollador+Frontend+%F0%9F%92%BB;Aprendo+algo+nuevo...+y+construyo+con+eso+%F0%9F%9B%A0%EF%B8%8F;Bogot%C3%A1%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
-Cuando no estoy programando, disfruto explorando nuevas recetas (sin comida picante 😅).
-
-
-## Tecnologías que uso:
-<div style="flex">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="40" height="40"/>
-  
 </div>
 
+Mi forma de aprender es sencilla: cuando un tema me interesa, lo estudio desde los fundamentos y luego construyo algo con lo que aprendí. Así un curso termina convertido en una app, una herramienta o un experimento.
 
-## Conéctate conmigo 📫
+### 🚀 Proyectos personales
 
-- [LinkedIn](https://www.linkedin.com/in/kevin-niño-guerrero/)
-- [Correo Electrónico](kevinandresrg@gmail.com) kevinandresrg@gmail.com
+| Proyecto | De qué se trata |
+|---|---|
+| ⚗️ **Molecule Reactor** | Visualizador de reacciones químicas con moléculas en 3D |
+| 🎮 **Galy** | App iOS en SwiftUI para gestionar colecciones de videojuegos |
+| 🎥 **Tutoriales en YouTube** | Documento el proceso de lo que construyo para que le sirva a alguien más |
+
+### 🔭 Próximos temas por aprender (y convertir en proyecto)
+
+`🔐 Hacking ético` `🖨️ Modelado e impresión 3D` `🌌 Astronomía` `🇬🇧 Inglés B1 → C1`
+
+### 🛠️ Tecnologías
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,astro,swift,figma,git&perline=9" alt="Stack" />
+</p>
+
+### 📊 Lenguajes que más uso
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANG-27&layout=compact&theme=github_dark&hide_border=true&locale=es&hide=roff&langs_count=6" alt="Lenguajes más usados" />
+</p>
+
+### 🎮 Fuera del código
+
+- 🗡️ Explorando Hyrule en *Zelda: Tears of the Kingdom*
+- 🃏 Coleccionando cartas Pokémon
+- ⚽ Hincha de la Selección Colombia
+- 🎲 Juegos de mesa y maratones de *Stranger Things*
+- 🐱🐶 Equipo de soporte en casa: un gato y un cocker spaniel
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-niño-guerrero)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinandresrg@gmail.com)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KANG-27&label=Visitas&color=58a6ff&style=flat" alt="Contador de visitas" />
+</div>
